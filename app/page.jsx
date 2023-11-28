@@ -1,5 +1,9 @@
 export default function Home() {
   return (
-    <div className="text-5xl">ROOMIO</div>
+    <main className={`${styles.main}`}>ROOMIO</main>
   )
+}
+
+const styles = {
+  main: 'grow'
 }
