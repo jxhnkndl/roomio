@@ -19,5 +19,5 @@ export default function Header() {
 const styles = {
   header: 'px-4 sm:px-8 md:px-14 lg:px-32 py-6',
   container: 'max-w-[1240px]',
-  brandBox: 'w-[150px]' 
+  brandBox: 'w-[100px] md:w-[150px]' 
 };
