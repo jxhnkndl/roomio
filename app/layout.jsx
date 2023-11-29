@@ -24,5 +24,5 @@ export default function RootLayout({ children }) {
 }
 
 const styles = {
-  container: 'min-h-screen flex flex-col justify-between bg-light',
+  container: 'min-h-screen flex flex-col justify-between bg-cream',
 };
