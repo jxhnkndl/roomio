@@ -22,12 +22,6 @@ module.exports = {
       'primary-light': '#728560',
       'secondary': '#FFB704',
       'secondary-light': '#FFD670'
-    },
-    container: {
-      center: true,
-      padding: {
-        DEFAULT: '30px'
-      }
     }
   },
   plugins: [],
