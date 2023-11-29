@@ -21,7 +21,8 @@ module.exports = {
       'primary': '#4F5944',
       'primary-light': '#728560',
       'secondary': '#FFB704',
-      'secondary-light': '#FFD670'
+      'secondary-light': '#FFD670',
+      'transparent': 'transparent'
     }
   },
   plugins: [],
